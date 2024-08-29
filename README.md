@@ -60,7 +60,7 @@ For a structured learning path, refer to the [JavaScript Roadmap](https://roadma
 
 To make changes, fix issues, or contribute directly from your browser, open this repository in Gitpod:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/YourUsername/YourRepoName)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/PREMRAJESH/JavaScript-ES6)
 
 ## 📢 Reporting Issues and Contributing
 
