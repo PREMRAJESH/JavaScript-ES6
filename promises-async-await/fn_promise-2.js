@@ -1,0 +1,1 @@
+const customer = new promises
