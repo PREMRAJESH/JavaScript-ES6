@@ -435,8 +435,3 @@ let b = 10;
 - [JavaScript.info - Variables](https://javascript.info/variables)
 - [FreeCodeCamp - JavaScript Basics](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
----
-
-Thank you for reading this guide on **Variables in JavaScript**. I hope it has been informative and helpful in enhancing your understanding. Happy coding!
-
----
