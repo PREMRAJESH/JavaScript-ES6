@@ -4,7 +4,7 @@ Welcome to the **JavaScript Tutorials & Programs** repository! This collection f
 
 ## 📂 Folder Structure
 
-- **[Introduction to JavaScript](./introduction/README.md)**
+- **[Introduction to JavaScript](./Problems/README.md)**
 - **[Variables and Data Types](./variables/README.md)**
 - **[Functions](./functions/README.md)**
 - **[Control Flow](./control-flow/README.md)**
