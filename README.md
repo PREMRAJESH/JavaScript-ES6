@@ -4,7 +4,7 @@ Welcome to the **JavaScript Tutorials & Programs** repository! This collection f
 
 ## 📂 Folder Structure
 
-- **[Introduction to JavaScript](./Problems/README.md)**
+- **Introduction to JavaScript**
 - **[Variables and Data Types](./variables/README.md)**
 - **[Functions](./functions/README.md)**
 - **[Control Flow](./control-flow/README.md)**
@@ -18,6 +18,7 @@ Welcome to the **JavaScript Tutorials & Programs** repository! This collection f
 - **[Modules](./modules/README.md)**
 - **[Design Patterns](./design-patterns/README.md)**
 - **[Memory Management and Optimization](./memory-management/README.md)**
+- **[Practise Problems](./problems/Readme.md)**
 
 ## 🚀 JavaScript Roadmap
 
